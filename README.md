@@ -1,5 +1,8 @@
 # Swift-DL
 
+> [!CAUTION]  
+> I doubt this works anymore, but if someone wants to submit a PR, please feel free to do so. This was more just for me to test the waters with Swift, but it could be useful for some. 
+
 A macOS video/audio downloader. Think of it as a youtube downloader that works on many sites.
 
 Swift-DL is a YT-DLP clone of the Youtube-DL GUI [_Get It_](https://github.com/Kevin-De-Koninck/Get-It) that includes additional bug fixes.
